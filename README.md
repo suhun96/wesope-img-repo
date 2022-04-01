@@ -9,3 +9,5 @@
 ![Dtailbackground](https://user-images.githubusercontent.com/97911154/161189831-bcdd0a6a-96cc-4288-87e3-280b42147bf6.jpeg)
 ![rightarrow](https://user-images.githubusercontent.com/97911154/161189839-71a157ca-c07a-463b-95a2-05af765499f4.png)
 ![leftarrow](https://user-images.githubusercontent.com/97911154/161189841-6ec8928e-5d8a-403f-8f93-b2b6db6940de.png)
+![샴푸백그라운드](https://user-images.githubusercontent.com/97911154/161190990-7224b978-95b9-4601-b153-fa066c133774.jpg)
+
