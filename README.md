@@ -10,4 +10,8 @@
 ![rightarrow](https://user-images.githubusercontent.com/97911154/161189839-71a157ca-c07a-463b-95a2-05af765499f4.png)
 ![leftarrow](https://user-images.githubusercontent.com/97911154/161189841-6ec8928e-5d8a-403f-8f93-b2b6db6940de.png)
 ![샴푸백그라운드](https://user-images.githubusercontent.com/97911154/161190990-7224b978-95b9-4601-b153-fa066c133774.jpg)
+![방울1](https://user-images.githubusercontent.com/97911154/161382539-13d1b452-e094-43b1-b207-67c3fd74e731.png)
+![방울2](https://user-images.githubusercontent.com/97911154/161382543-ca0aa659-7c8c-4f15-87f0-3884b4b9b070.png)
+![방울3](https://user-images.githubusercontent.com/97911154/161382544-1cf3e796-3faa-4bcb-a28f-8b18a53b0c22.png)
+![방울4](https://user-images.githubusercontent.com/97911154/161382546-2f20cfc5-ba34-47cb-aac1-c05f8eb233b8.png)
 
