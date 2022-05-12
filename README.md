@@ -15,3 +15,14 @@
 ![방울3](https://user-images.githubusercontent.com/97911154/161382544-1cf3e796-3faa-4bcb-a28f-8b18a53b0c22.png)
 ![방울4](https://user-images.githubusercontent.com/97911154/161382546-2f20cfc5-ba34-47cb-aac1-c05f8eb233b8.png)
 
+<img width="209" alt="아바타" src="https://user-images.githubusercontent.com/97911154/168037753-abb55ed8-6066-41cc-8762-0bdbb5ff3104.png">
+<img width="190" alt="아바타2" src="https://user-images.githubusercontent.com/97911154/168037770-4c00c0d5-3243-49c4-8e19-552d55491386.png">
+<img width="182" alt="아바타5" src="https://user-images.githubusercontent.com/97911154/168037777-fba1ef62-95c3-4b68-86eb-ae12641a506a.png">
+<img width="205" alt="아바타3" src="https://user-images.githubusercontent.com/97911154/168037778-3a99a2b1-63b6-4f93-aaa6-84d4a4ac27d3.png">
+<img width="193" alt="아바타6" src="https://user-images.githubusercontent.com/97911154/168037784-7a2e5af9-64d2-43f2-92ef-277272d949cc.png">
+<img width="221" alt="아바타4" src="https://user-images.githubusercontent.com/97911154/168037791-39bc6efc-8b29-4711-a537-ee1afb9d5340.png">
+<img width="186" alt="아바타7" src="https://user-images.githubusercontent.com/97911154/168037798-d543fa99-45dd-4293-b0ce-e551db427729.png">
+<img width="192" alt="아바타8" src="https://user-images.githubusercontent.com/97911154/168037803-1ed65b73-3a89-40fa-a3c3-3bb16680fc87.png">
+<img width="187" alt="아바타9" src="https://user-images.githubusercontent.com/97911154/168037808-154e7315-641b-4e37-aa66-a4d8fc475c02.png">
+<img width="219" alt="아바타10" src="https://user-images.githubusercontent.com/97911154/168037810-86e67102-e0f2-48a1-8557-599e80a3062e.png">
+
