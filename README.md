@@ -26,19 +26,6 @@
 <img width="187" alt="아바타9" src="https://user-images.githubusercontent.com/97911154/168037808-154e7315-641b-4e37-aa66-a4d8fc475c02.png">
 <img width="219" alt="아바타10" src="https://user-images.githubusercontent.com/97911154/168037810-86e67102-e0f2-48a1-8557-599e80a3062e.png">
 
-![게임](https://user-images.githubusercontent.com/97911154/168542230-612de9c3-1325-4ba6-a237-9aa749d0535a.jpg)
-![교육](https://user-images.githubusercontent.com/97911154/168542236-1c615e75-99da-4c0b-a66c-74b23ef45a0a.jpg)
-![반려동물](https://user-images.githubusercontent.com/97911154/168542241-a9a3b126-2a80-466f-a283-3d2a6def3452.jpg)
-![뷰티](https://user-images.githubusercontent.com/97911154/168542242-e79538f7-1e80-45b7-9da5-a93c77900abe.jpg)
-![여행](https://user-images.githubusercontent.com/97911154/168542249-681b3443-cbef-40a3-a7a5-902284316ec8.jpg)
-![영화](https://user-images.githubusercontent.com/97911154/168542254-9613f659-fc3b-4ffd-ace8-c8e52a38e190.jpg)
-![음식](https://user-images.githubusercontent.com/97911154/168542259-e52938cd-df14-40f3-a707-138fcaf941c9.jpg)
-![음악](https://user-images.githubusercontent.com/97911154/168542267-9aac9507-06ff-4ae6-b1d2-e202b07db4ad.jpg)
-![자동차](https://user-images.githubusercontent.com/97911154/168542273-54b3cb7b-8817-41ca-b43a-06a672c23288.jpg)
-![전자기기](https://user-images.githubusercontent.com/97911154/168542276-0edd376c-6915-42cb-8a42-281d58bfe558.jpg)
-![축구](https://user-images.githubusercontent.com/97911154/168542278-a701e6e4-93ee-4869-81c1-d173267d94db.jpg)
-![패션](https://user-images.githubusercontent.com/97911154/168542283-ec8e2784-dbbb-4099-90f1-c66a40e89734.jpg)
-
 ![게임](https://user-images.githubusercontent.com/97911154/168548197-05e1e4a2-9153-486c-81a0-9b2cbb9b640e.jpg)
 ![게임2](https://user-images.githubusercontent.com/97911154/168548205-21bc8f45-7d8f-48b8-93f8-84843e807079.jpg)
 ![게임3](https://user-images.githubusercontent.com/97911154/168548209-f807b342-0065-40f2-8300-d5d693b9924d.jpg)
